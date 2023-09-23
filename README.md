@@ -2,3 +2,10 @@
 Sito Web de SoftInterlingua / Website
 
 [Lege le Wiki](https://github.com/softinterlingua/softinterlingua.github.io/wiki/Wiki-de-SoftInterlingua)
+
+## Lista de programmas e applicationes
+
+### Application destacate
+
+
+### Altere applicationes
